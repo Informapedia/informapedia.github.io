@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Informe-se
+title: Todos os posts
 description: Aqui você confere as noticiais mais recentes e confiáveis, venha conferir!
-category: informe
 background: '/img/bg-post.jpg'
 ---
 
 {% for post in site.posts %}
-{% if post.category == 'informe' %}
 
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
@@ -30,7 +28,6 @@ background: '/img/bg-post.jpg'
 
   <hr>
 
-{% endif %}
 {% endfor %}
 
 <!-- Pager -->
