@@ -1,13 +1,12 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
   <div class="container">
-    <a class="navbar-brand" href="{{"/" | relative_url }}">{{ site.title | escape }}</a>
-    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-      Menu
+    <a class="navbar-brand searchHide" href="{{"/" | relative_url }}">{{ site.title | escape }}</a>
+    <button class="navbar-toggler navbar-toggler-right searchHide" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <i class="fa fa-bars"></i>
     </button>
-    <div class="collapse navbar-collapse" id="navbarResponsive">
-      <ul class="navbar-nav ml-auto">
+    <div class="collapse navbar-collapse searchHide" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto searchHide">
         <li class="nav-item">
           <a class="nav-link" href="{{"/" | relative_url }}">Inicio</a>
         </li>
@@ -24,6 +23,10 @@
           <a class="nav-link" href="{{"/contact" | relative_url }}">Contato</a>
         </li>
       </ul>
+    </div>
+    <div id="search-container" onfocusin="searchFocus()" onfocusout="searchLostFocus()">
+      <input class="form-control mr-sm-2" type="search" id="search-input" placeholder="Buscar...">
+      <ul id="results-container", style="background-color: aliceblue;"></ul>
     </div>
   </div>
 </nav>
