@@ -1,37 +1,33 @@
 ---
 layout: page
 title: Espaço BCI
-category: espacoBCI
+permalink: /espacoBCI/
+description: Espaço dedicado a publicações sobre Biblioteconomia e Ciência da Informação.
 background: '/img/bg-post.jpg'
 ---
 
-{% for post in site.posts %}
-{% if post.category == 'espacoBCI' %}
+<div>
+  {% for category in site.categories %}
+  {% capture category_name %}{{ category | first }}{% endcapture %}
+  {% if category_name != "Informe" %}
 
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-      <h2 class="post-title">{{ post.title }}</h2>
-      {% if post.subtitle %}
-      <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-      {% else %}
-      <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
-      {% endif %}
-    </a>
-    <p class="post-meta">
-      {% if post.author %}
-      {{ post.author }}
-      {% else %}
-      {{ site.author }}
-      {% endif %}
-      on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
-    </p>
-  </article>
-
-  <hr>
-
-{% endif %}
-
+  <div id="collapseListGroupHeading{{ category_name | replace: ' ', '' }}">
+    <h4>
+      <a class="collapsed" data-toggle="collapse" href="#collapseListGroup{{ category_name | replace: ' ', '' }}" expanded="false" controls="collapseListGroup{{ category_name | replace: ' ', '' }}">
+        {{ category_name }}
+      </a>
+    </h4>
+  </div>
+  <div id="collapseListGroup{{ category_name | replace: ' ', '' }}" class="collapse" labelledby="collapseListGroupHeading{{ category_name | replace: ' ', '' }}">
+    <ul class="list-group">
+    {% for post in site.categories[category_name] %}
+      <li class="list-group-item"><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></li>
+    {% endfor %}
+    </ul>
+  {% endif %}
+</div>
 {% endfor %}
+</div>
 
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
