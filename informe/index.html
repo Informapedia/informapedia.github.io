@@ -7,7 +7,7 @@ background: '/img/bg-post.jpg'
 ---
 
 {% for post in site.posts %}
-{% if post.category == 'informe' %}
+{% if post.categories[0] == 'Informe' %}
 
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
