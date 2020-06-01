@@ -21,4 +21,5 @@ Para além do Espaço BCI, temos o espaço Informe-se, que busca postar notícia
 É importante lembrar que o Informapédia sofrerá alterações e estaremos sempre buscando melhorar a experiência dos nossos usuários e prover informações de qualidade para todo mundo! 
 
 {: style="text-align: justify" }
-O nosso blog tem o intuito de ser colaborativo, por isso, várias pessoas serão convidadas para serem autores de posts, de séries de publicações. 
+O nosso blog tem o intuito de ser colaborativo, por isso, várias pessoas serão convidadas para serem autores de posts, de séries de publicações. Não somos um local de verificação de notícias, mas as noticías postadas aqui são verificadas.  
+
