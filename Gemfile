@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem "activesupport", ">= 6.0.3.1"
+
 gem "jekyll", "~> 3.8.5"
 
 gem "github-pages", "~> 204"
