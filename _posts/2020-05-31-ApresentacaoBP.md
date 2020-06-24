@@ -10,10 +10,10 @@ background: '/img/bg-index.jpg'
 # Apresentação do espaço boas práticas
 
 {: style="text-align: justify" }
-Esse espaço visa apresentar boas práticas que estão sendo praticadas em bibliotecas por bibliotecários, bibliotecárias, bibliotecáries. 
+Esse espaço visa apresentar boas práticas que estão sendo praticadas em bibliotecas por bibliotecários, bibliotecárias, bibliotecáries. Dessa forma, é um espaço colaborativo para relatos de caso e experiências. 
 
 {: style="text-align: justify" }
-Não nos restringiremos às boas práticas para a pandemia, nossa intenção é ser um local de referência para a área. 
+As atualizações serão semanais com os relatos, textos e experiências enviados pelo email boaspraticasembibliotecas@gmail.com. 
 
 {: style="text-align: justify" }
 Esse espaço será coordenado pela Professora Dr. [Gabrielle Francine de Souza Carvalho Tanus](http://lattes.cnpq.br/0229537475582012)
