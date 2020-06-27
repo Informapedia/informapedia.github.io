@@ -37,7 +37,7 @@ Precisamos nos colocar com mais intensidade como protagonistas na “história d
 Por fim, ao consultar no dicionário Infopédia verificamos que a expressão “boas-práticas” significa um “Conjunto das técnicas, processos, procedimentos e atividades identificados, utilizados, comprovados e reconhecidos por diversas organizações, em determinada área do saber, como sendo os melhores quanto ao mérito, eficácia e sucesso alcançados pela sua aplicação na realização de uma tarefa”. Diante disso, o compartilhamento de ações realizadas dentro e fora das bibliotecas (sejam públicas, escolares, universitárias, especializadas, especiais...) tem como objetivo demonstrar a importância de ações exitosas que fazem a diferença, ações inovadoras, ações transformadoras, reforçando e valorizando a práxis enquanto um conceito de transformação social da realidade. 
 
 {: style="text-align: justify" }    
-Diante disso, esperamos e contamos com as participações de vocês! Valorize e torne mais visível as boas práticas!
+Diante disso, esperamos e contamos com as participações de vocês! Valorize e torne mais visíveis as boas práticas!
 
 {: style="text-align: justify" }    
 [Gabrielle Francinne de S. C. Tanus](http://lattes.cnpq.br/0229537475582012)
