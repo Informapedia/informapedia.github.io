@@ -14,11 +14,11 @@ background: '/img/bg-index.jpg'
 Foram divulgadas as datas dos pagamentos do auxílio emergencial, nesta quinta-feira, dia 26 de junho de 2020. 
 
 {: style="text-align: justify" }
-O auxílio emergencial, dividido em três parcelas no valor de R$ 600,00, será liberado para a população beneficiária receber a partir do dia 27 de junho, sábado, até o dia 04 de Julho, sábado. Serão 7 dias de pagamentos baseados no mês de nascimento dos beneficiários.
+A terceira parcela do auxílio emergencial, dividido em três parcelas no valor de R$ 600,00, será liberada para a população beneficiária receber a partir do dia 27 de junho, sábado, até o dia 04 de Julho, sábado. Serão 7 dias de pagamentos baseados no mês de nascimento dos beneficiários.
 
 # Terceira Parcela
 {: style="text-align: justify" }
-Essa data de pagamento é válido para inscritos via aplicativo, site e pessoas cadastradas no Cadastro único e Bolsa Família e para pessoas que **receberam a segunda parcela até o dia 30 de Maio.**
+Essa data de pagamento é válida para inscritos via aplicativo, site e pessoas cadastradas no Cadastro único e Bolsa Família e para pessoas que **receberam a segunda parcela até o dia 30 de Maio.**
 
 ![TerceiraParcela](/img/posts/Pagamento3parcela.png "Calendário Terceira Parcela")
 
@@ -37,7 +37,7 @@ Imagem 2 – Calendário de pagamentos (2020)
 Fonte:[Caixa Econômica Federal](http://www.caixa.gov.br/auxilio/PAGINAS/DEFAULT2.ASPX) 
 
 {: style="text-align: justify" }
-Todas as parcelas serão pagas na poupança digital CaixaTEM e serão liberados pagamentos de boletose cartão de débito virtual a partir do depósito na conta. Saques e transferências serão liberados a partir do dia 18 de julho. 
+Todas as parcelas serão pagas na poupança digital CaixaTEM e serão liberados pagamentos de boletos e cartão de débito virtual a partir do depósito do auxílio na conta. Saques e transferências serão liberados a partir do dia 18 de julho. 
 
 {: style="text-align: justify" }
 Caso você ainda não tenha sido aprovado no auxílio emergencial ou ainda não fez o cadastro, você tem até o dia 02 de Julho, dia que a lei 13.982 completa 3 meses, o cadastro poderá ser feito até 90 dias a partir da publicação da lei. 
