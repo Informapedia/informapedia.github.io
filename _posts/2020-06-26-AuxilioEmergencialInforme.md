@@ -3,7 +3,7 @@ layout: post
 title: "Auxílio Emergecial - Calendário das parcelas"
 categories: Informe
 author: "Débora Reis"
-subtitle: "São divulgados os dias para pagamento das 1°, 2° e 3° parcelas do Auxílio Emergencial"
+subtitle: "São divulgados os dias para pagamento da 2° e 3° parcela do Auxílio Emergencial"
 date: 2020-06-26
 background: '/img/bg-index.jpg'
 ---
