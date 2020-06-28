@@ -3,7 +3,7 @@ email:              web.concib@gmail.com
 description:        Uma página para que você saiba das informações, notícias do Brasil e do Mundo. As informações aqui postadas são verificadas por bibliotecários e bibliotecárias quanto a sua veracidade.
 author:             WebConCib
 baseurl:            ""
-url:                "https://wwww.infomapedia.github.io"
+url:                "https://www.infomapedia.github.io"
 
 defaults:
   - scope:
