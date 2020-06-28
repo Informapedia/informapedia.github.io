@@ -9,7 +9,7 @@ defaults:
   - scope:
       path: ""
     values:
-      image: favicon.ico
+      image: /img/bg-index.jpg
 
 facebook:
   app_id: 565864924091772
