@@ -5,7 +5,11 @@ author:             WebConCib
 baseurl:            ""
 url:                "https://infomapedia.github.io"
 
-og_image: "favicon.ico"
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: favicon.ico
 
 # Social Profiles
 #twitter_username:   SBootstrap
