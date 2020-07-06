@@ -4,7 +4,7 @@ title: "Divulgação de boas práticas em bibliotecas no Brasil e no Mundo"
 categories: [Boas Práticas]
 permalink: /espacoBCI/boasPraticas/:title:output_ext
 author: "Débora Crystina Reis"
-edithor: "Gabrielle Francinne de S. C. Tanus"
+editor: "Gabrielle Francinne de S. C. Tanus"
 date: 2020-07-06
 background: '/img/bg-index.jpg'
 ---
