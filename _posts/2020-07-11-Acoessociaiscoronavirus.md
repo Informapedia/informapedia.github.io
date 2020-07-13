@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "Auxílios para população carente no Brasil"
+title: "Auxílios para população vulnerável no Brasil."
 categories: Informe
 author: "Débora Reis"
-subtitle: "Divulgação de auxílios pelo Brasil"
+subtitle: "Divulgação de auxílios pelo Brasil."
 date: 2020-07-11
 background: '/img/bg-index.jpg'
 ---
