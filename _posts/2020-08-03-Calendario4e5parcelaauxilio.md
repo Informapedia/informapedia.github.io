@@ -3,7 +3,7 @@ layout: post
 title: "Calendário das novas parcelas do auxílio emergencial."
 categories: Informe
 author: "Débora Reis"
-subtitle: "Parcelas 4 e 5 do auxílio emergencial"
+subtitle: "Parcelas do auxílio emergencial"
 date: 2020-08-03
 background: '/img/bg-index.jpg'
 ---
