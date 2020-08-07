@@ -13,7 +13,7 @@ O auxílio emergencial, criado e disponibilizado em decorrência da pandemia do 
 {: style="text-align: justify" }
 Nessas novas parcelas o valor de R$600,00 continua o mesmo e a disponibilização também, baseando-se no mês de aniversário do beneficiário e colocado em crédito no aplicativo [CaixaTem](http://www.caixa.gov.br/atendimento/aplicativos/caixatem/Paginas/default.aspx). Os pagamentos vão ser disponibilizados em ciclos. 
 Ciclo 1: crédito e saque da 4ª parcela
-Ciclo 2: crédio e saque da 5ª parcela
+Ciclo 2: crédito e saque da 5ª parcela
 
 Baseado no calendário da caixa, disponibilizamos as datas previstas para os pagamentos do auxílio de pessoas que receberam a primeira parcela em Abril, Maio e Junho.
 
