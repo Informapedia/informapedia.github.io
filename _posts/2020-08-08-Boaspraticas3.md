@@ -7,6 +7,8 @@ author: "Gabrielle Francinne de S. C. Tanus"
 date: 2020-08-09
 background: '/img/bg-index.jpg'
 ---
+#Boas práticas. Divulgue!
+
 {: style="text-align: justify" }
 Para discutirmos e incentivarmos as boas práticas em bibliotecas, precisamos mostrá-las e compartilhá-las com a classe e com os demais interessados. Pensando nisso, fizemos um compilado de notícias sobre boas práticas no Brasil e no mundo. As boas práticas são ações feitas por bibliotecários e profissionais envolvidos com o direito ao livro, à leitura, à literatura e à escrita. Lembramos a todos que estamos abertos à relatos de casos, ensaios, notícias de boas práticas, só enviar para nosso e-mail: **boaspraticasembibliotecas@gmail.com**
 
