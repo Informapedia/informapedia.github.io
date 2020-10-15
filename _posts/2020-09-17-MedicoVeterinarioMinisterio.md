@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Médico Veterinário, cuidando de gente? Pode isso?"
+title: "Médico Veterinário é importante para o ser humano?"
 categories: Informe
 author: "Alisson Silva"
 subtitle: "Vem entender um pouco desse profissional"
@@ -8,7 +8,7 @@ date: 2020-09-17
 background: '/img/bg-index.jpg'
 ---
 {: style="text-align: justify" }
-Imagina que loucura, um médico veterinário, cuidar de gente? Mas, será tanta loucura assim? Nesse texto, o Graduando em Medicina Veterinária, Alisson Silva nos explica um pouco, da atuação desse profissional e de sua importância para a saúde humana. 
+O Graduando em Medicina Veterinária, Alisson Silva nos explica um pouco, da atuação desse profissional e de sua importância para a saúde humana. 
 
 {: style="text-align: justify" }
 Na sexta-feira do dia 28 de agosto de 2020, o até então Ministro da Saúde interino, General Eduardo Pazuello, nomeou para Diretor do Programa Nacional de Imunização e Doenças Transmissível, o médico veterinário Lauricio Monteiro Cruz, substituindo outro médico veterinário, Marcelo Wada, que ocupava o cargo como interino até então. Desde então, houveram muitos questionamentos em relação capacitação de médicos veterinários frente a cargos na saúde pública.
