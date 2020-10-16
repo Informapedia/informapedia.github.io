@@ -61,6 +61,6 @@ Kaique Santana é graduando em Ciências Econômicas pela Universidade Federal d
 {: style="text-align: justify" }
 FONTES:
 
-LEITE, Vitor. Quais as vantagens do Pix para empresas?. Nubank. 05 de Out. 2020. Disponível em:[https://blog.nubank.com.br/vantagens-pix-para-empresas/?fbclid=IwAR0dnESxPDuKg54sfrwlzPZpd1gwMnwwTgKt3C2zzimUdj6VLe0bHoxwb1Y] (https://blog.nubank.com.br/vantagens-pix-para-empresas/?fbclid=IwAR0dnESxPDuKg54sfrwlzPZpd1gwMnwwTgKt3C2zzimUdj6VLe0bHoxwb1Y)
+LEITE, Vitor. Quais as vantagens do Pix para empresas?. Nubank. 05 de Out. 2020. Disponível em: [https://blog.nubank.com.br/vantagens-pix-para-empresas/?fbclid=IwAR0dnESxPDuKg54sfrwlzPZpd1gwMnwwTgKt3C2zzimUdj6VLe0bHoxwb1Y](https://blog.nubank.com.br/vantagens-pix-para-empresas/?fbclid=IwAR0dnESxPDuKg54sfrwlzPZpd1gwMnwwTgKt3C2zzimUdj6VLe0bHoxwb1Y)
 
-BANCO CENTRAL DO BRASIL. Pix. Banco Central do Brasil. Disponível em:[https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos)
+BANCO CENTRAL DO BRASIL. Pix. Banco Central do Brasil. Disponível em: [https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos](https://www.bcb.gov.br/estabilidadefinanceira/pagamentosinstantaneos)
