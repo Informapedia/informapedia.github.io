@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "As bibliotecas tem se reiventado, sabia? Ações que levam o livro, a leitura e informação."
+title: "As bibliotecas tem se reinventado, sabia? Ações que levam o livro, a leitura e informação."
 categories: [Boas Práticas]
 permalink: /espacoBCI/boasPraticas/:title:output_ext
 author: "Gabrielle Francinne de S. C. Tanus"
