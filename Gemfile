@@ -2,14 +2,14 @@ source "https://rubygems.org"
 
 gem "activesupport", ">= 6.0.3.1"
 
-gem "jekyll", "~> 3.8.5"
+gem "jekyll", "~> 3.9.0"
 
-gem "github-pages", "~> 204"
+gem "github-pages", "~> 212"
 
 gem 'jekyll-seo-tag'
 
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.13.0"
+  gem "jekyll-feed", "~> 0.15.1"
   gem "jekyll-paginate", "~> 1.1.0"
   gem "jekyll-sitemap", "~> 1.4.0"
 end
