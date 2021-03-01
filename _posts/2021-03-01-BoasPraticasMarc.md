@@ -14,8 +14,7 @@ Convidamos você, leitor, para mais uma vez incentivarmos as boas práticas em b
 
 {: style="text-align: justify" }
 ![](/img/warning.png) O Sistema de Bibliotecas Públicas de Medellín tem como finalidade garantir a todos os cidadãos o livre acesso à informação, leitura, escrita, conhecimento, pensamento e fruição da cultura, fomentando a participação ativa nas diferentes etapas da vida, contribuindo para a
-consolidação de uma sociedade democrática que reconheça suas condições socioculturais e seu poder de transformação. Para saber mais do projeto clique [aqui](https://bibliotecasmedellin.gov.co/cms/blogabc-para-conocer-los-servicios-de-makerspace-de-sistema-de-bibliotecas-publicas-de-
-medellinfbclid=IwAR2hQhkXcnQLTTWkXd9JYEyyWkgqymJW4_gwf_-i7IAVr5NX4Z3IZ1EgCL4)
+consolidação de uma sociedade democrática que reconheça suas condições socioculturais e seu poder de transformação. Para saber mais do projeto clique [aqui](https://bibliotecasmedellin.gov.co/cms/blog/abc-para-conocer-los-servicios-de-makerspace-de-sistema-de-bibliotecas-publicas-de-medellin/?fbclid=IwAR2hQhkXcnQLTTWkXd9JYEyyWkgqymJW4_gwf_-i7IAVr5NX4Z3IZ1EgCL4)
 
 {: style="text-align: justify" }
 ![](/img/warning.png) Primeira biblioteca indígena de Mato Grosso, intitulada **BiblioÓCA**, é inaugurada com livros históricos e artesanatos. O espaço tem um acervo de livros sobre a história do Brasil, dos povos indígenas e histórias em geral, e conta com um laboratório de informática com acesso
