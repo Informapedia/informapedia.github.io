@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Projeto, Associação e Criação
+title: Quer conhecer algum Projeto, Associação e Criação ligado a Biblioteconomia e Ciência da Informação?
 date: 2021-04-15
 categories: ['Boas Práticas']
 permalink: /espacoBCI/boasPraticas/:title:output_ext
