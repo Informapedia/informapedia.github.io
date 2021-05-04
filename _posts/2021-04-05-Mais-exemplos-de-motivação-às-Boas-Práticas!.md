@@ -3,7 +3,7 @@ layout: post
 title: Mais exemplos de motivação às Boas Práticas!
 date: 2021-04-05
 categories: ['Boas Práticas']
-permalink: /espacoBCI/boasPraticas/:title:output_ext
+permalink: /boasPraticas/:title:output_ext
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---

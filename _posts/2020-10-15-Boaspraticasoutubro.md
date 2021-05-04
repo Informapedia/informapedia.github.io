@@ -2,7 +2,7 @@
 layout: post
 title: "Ações que levam o livro, a literatura e a leitura à todes: Mais um texto na nossa coluna de boas práticas"
 categories: [Boas Práticas]
-permalink: /espacoBCI/boasPraticas/:title:output_ext
+permalink: /boasPraticas/:title:output_ext
 author: "Gabrielle Francinne de S. C. Tanus"
 date: 2020-10-15
 background: '/img/bg-index.jpg'

@@ -2,7 +2,7 @@
 layout: post
 title: "Mais exemplos de boas práticas! Divulgue"
 categories: [Boas Práticas]
-permalink: /espacoBCI/boasPraticas/:title:output_ext
+permalink: /boasPraticas/:title:output_ext
 author: "Projeto Boas Práticas"
 date: 2021-03-25
 background: '/img/bg-index.jpg'

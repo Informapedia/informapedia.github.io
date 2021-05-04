@@ -2,7 +2,7 @@
 layout: post
 title: "Equipe nova do Projeto Boas Práticas"
 categories: [Boas Práticas]
-permalink: /espacoBCI/boasPraticas/:title:output_ext
+permalink: /boasPraticas/:title:output_ext
 author: "Projeto Boas Práticas"
 date: 2021-02-28
 background: '/img/bg-index.jpg'

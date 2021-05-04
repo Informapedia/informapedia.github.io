@@ -2,7 +2,7 @@
 layout: post
 title: "Apresentação do espaço boas práticas"
 categories: [Boas Práticas]
-permalink: /espacoBCI/boasPraticas/:title:output_ext
+permalink: /boasPraticas/:title:output_ext
 author: "Débora Reis"
 date: 2020-05-31
 background: '/img/bg-index.jpg'

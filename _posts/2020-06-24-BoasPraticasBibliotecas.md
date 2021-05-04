@@ -2,7 +2,7 @@
 layout: post
 title: "Boas práticas em bibliotecas"
 categories: [Boas Práticas]
-permalink: /espacoBCI/boasPraticas/:title:output_ext
+permalink: /boasPraticas/:title:output_ext
 author: "Gabrielle Francinne de S. C. Tanus"
 date: 2020-06-24
 background: '/img/bg-index.jpg'

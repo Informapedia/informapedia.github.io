@@ -9,7 +9,7 @@ background: '/img/bg-post.jpg'
 <div>
   {% for category in site.categories %}
   {% capture category_name %}{{ category | first }}{% endcapture %}
-  {% if category_name != "Informe" %}
+  {% if category_name != "Informe" and category_name != "Boas Práticas" %}
 
   <div id="collapseListGroupHeading{{ category_name | replace: ' ', '' }}">
     <h4>

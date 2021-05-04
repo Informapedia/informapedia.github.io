@@ -2,7 +2,7 @@
 layout: post
 title: "Boas práticas no Brasil e no Mundo"
 categories: [Boas Práticas]
-permalink: /espacoBCI/boasPraticas/:title:output_ext
+permalink: /boasPraticas/:title:output_ext
 author: "Gabrielle Francinne de S. C. Tanus"
 date: 2020-07-27
 background: '/img/bg-index.jpg'

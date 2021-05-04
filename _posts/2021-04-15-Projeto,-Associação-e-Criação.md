@@ -3,7 +3,7 @@ layout: post
 title: Quer conhecer algum Projeto, Associação e Criação ligados à Biblioteconomia e Ciência da Informação?
 date: 2021-04-15
 categories: ['Boas Práticas']
-permalink: /espacoBCI/boasPraticas/:title:output_ext
+permalink: /boasPraticas/:title:output_ext
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---
