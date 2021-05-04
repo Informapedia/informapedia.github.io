@@ -12,7 +12,7 @@ Nós nos conhecemos em Encontros Estudantis da área de Biblioteconomia, Gestão
 [Débora Crystina Reis](http://lattes.cnpq.br/8991339927186146) é bacharela em Biblioteconomia pela Universidade Federal de Minas Gerais, Mestranda em Ciência da Informação pela UFMG. Trabalha com gestão da informação, informação e(m) saúde e ensino de Biblioteconomia
 
 {: style="text-align: justify" }
-[Francisco de Paula Dias Neto](http://lattes.cnpq.br/4018464616656797) é bacharelando em Ciência da Computação pela Universidade Federal de Minas Gerais, atua no laboratório de sensoriamento remoto CSR desenvolvendo o software Dinamica EGO
+[Francisco de Paula Dias Neto](http://lattes.cnpq.br/4018464616656797) é bacharel em Ciência da Computação pela Universidade Federal de Minas Gerais, atua no laboratório de sensoriamento remoto CSR desenvolvendo o software Dinamica EGO.
 
 {: style="text-align: justify" }
 [Victor Rosa](http://lattes.cnpq.br/4914431334459165) é licenciado em Biblioteconomia pela Universidade Federal do Estado do Rio de Janeiro (UNIRIO), Mestrando em Educação na Universidade Estadual do Rio de Janeiro (UERJ) e Mestrando em Ciência da Informação pela convenio IBICT-UFRJ
