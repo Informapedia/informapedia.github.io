@@ -2,7 +2,7 @@
 layout: post
 title: "Voltamos com mais práticas que estão sendo realizadas por bibliotecas... Vem ver!"
 categories: [Boas Práticas]
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: "Gabrielle Francinne de S. C. Tanus"
 date: 2020-09-17
 background: '/img/bg-index.jpg'

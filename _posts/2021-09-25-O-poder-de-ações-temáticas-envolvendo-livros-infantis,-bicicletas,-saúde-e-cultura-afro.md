@@ -3,7 +3,7 @@ layout: post
 title: O poder de ações temáticas envolvendo livros infantis, bicicletas, saúde e cultura afro
 date: 2021-09-25
 categories: ['Boas Práticas']
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---

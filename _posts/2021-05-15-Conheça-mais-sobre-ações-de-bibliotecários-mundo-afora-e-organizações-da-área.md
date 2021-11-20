@@ -3,7 +3,7 @@ layout: post
 title: Conheça mais sobre ações de bibliotecários mundo afora e organizações da área!
 date: 2021-05-15
 categories: ['Boas Práticas']
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---

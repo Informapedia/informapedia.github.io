@@ -3,7 +3,7 @@ layout: post
 title: Livros digitais, exposições e revisão de cabeçalho de assunto é tema das boas práticas!
 date: 2021-06-25
 categories: ['Boas Práticas']
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---

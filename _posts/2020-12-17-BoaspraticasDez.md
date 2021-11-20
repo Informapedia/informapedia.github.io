@@ -2,7 +2,7 @@
 layout: post
 title: "As boas ações em bibliotecas não acabam! Vem conferir mais algumas"
 categories: [Boas Práticas]
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: "Gabrielle Francinne de S. C. Tanus"
 date: 2020-12-17
 background: '/img/bg-index.jpg'

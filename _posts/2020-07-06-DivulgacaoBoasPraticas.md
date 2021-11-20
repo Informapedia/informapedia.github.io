@@ -2,7 +2,7 @@
 layout: post
 title: "Divulgação de boas práticas em bibliotecas no Brasil e no Mundo"
 categories: [Boas Práticas]
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: "Débora Crystina Reis"
 editor: "Gabrielle Francinne de S. C. Tanus"
 date: 2020-07-06

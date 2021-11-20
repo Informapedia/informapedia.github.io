@@ -2,7 +2,7 @@
 layout: post
 title: "Apresentação do espaço boas práticas"
 categories: [Boas Práticas]
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: "Débora Reis"
 date: 2020-05-31
 background: '/img/bg-index.jpg'

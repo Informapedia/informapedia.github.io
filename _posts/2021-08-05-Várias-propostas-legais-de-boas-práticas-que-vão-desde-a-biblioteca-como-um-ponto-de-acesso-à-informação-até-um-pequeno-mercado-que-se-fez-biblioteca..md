@@ -3,7 +3,7 @@ layout: post
 title: Várias propostas legais de boas práticas que vão desde a biblioteca como um ponto de acesso à informação até um pequeno mercado que se fez biblioteca.
 date: 2021-08-05
 categories: ['Boas Práticas']
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---

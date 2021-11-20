@@ -3,7 +3,7 @@ layout: post
 title: Projetos de boas práticas pelo mundo! Livros livres, pessoas mais informadas e bibliotecas inusitadas.
 date: 2021-05-10
 categories: ['Boas Práticas']
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---

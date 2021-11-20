@@ -3,7 +3,7 @@ layout: post
 title: Mais projetos de leitura, empréstimo de livros e até distribuição de vacinas.
 date: 2021-04-25
 categories: ['Boas Práticas']
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---

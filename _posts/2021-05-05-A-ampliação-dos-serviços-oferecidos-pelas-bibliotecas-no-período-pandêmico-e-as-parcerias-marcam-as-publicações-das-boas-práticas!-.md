@@ -3,7 +3,7 @@ layout: post
 title: A ampliação dos serviços oferecidos pelas bibliotecas no período pandêmico e as parcerias marcam as publicações das boas práticas! 
 date: 2021-05-05
 categories: ['Boas Práticas']
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---

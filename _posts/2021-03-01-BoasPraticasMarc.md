@@ -2,7 +2,7 @@
 layout: post
 title: "Boas práticas para divulgarmos e vermos como exemplos"
 categories: [Boas Práticas]
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: "Projeto Boas Práticas"
 date: 2021-03-01
 background: '/img/bg-index.jpg'

@@ -3,7 +3,7 @@ layout: post
 title: Conheça ações inspiradoras desenvolvidas por bibliotecas que se adaptaram às necessidades de sua comunidade
 date: 2021-09-10
 categories: ['Boas Práticas']
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---

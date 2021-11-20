@@ -2,7 +2,7 @@
 layout: post
 title: "Você sabia? Boas Práticas estão sendo feitas em todos os lugares!"
 categories: [Boas Práticas]
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: "Gabrielle Francinne de S. C. Tanus"
 date: 2020-08-09
 background: '/img/bg-index.jpg'
