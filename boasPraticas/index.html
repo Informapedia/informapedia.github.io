@@ -6,47 +6,130 @@ category: boasPraticas
 background: '/img/bg-post.jpg'
 ---
 
+{% assign startYear = 2222 %}
+{% assign endYear   = 1 %}
+{% assign boasPraticas = "" | split: ',' %}
+
 {% for post in site.posts %}
 {% if post.categories[0] == 'Boas Práticas' %}
+  {% assign boasPraticas = boasPraticas | push: post %}
+  {%comment%} +++++
+    "| plus: 0" casts postYear to fixnum, because "post.date | date: "%Y"" is a string
+    and comparing "2013" with 2012 (string / number) throws an error
+  +++++ {%endcomment%}
+  {% assign postYear = post.date | date: "%Y" | plus: 0 %}
 
-  <article class="post-preview">
-    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-      <h2 class="post-title">{{ post.title }}</h2>
-      {% if post.subtitle %}
-      <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-      {% else %}
-      <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
-      {% endif %}
-    </a>
-    <p class="post-meta">
-      {% if post.author %}
-      {{ post.author }}
-      {% else %}
-      {{ site.author }}
-      {% endif %}
-      on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
-    </p>
-  </article>
-
-  <hr>
-
+  {% if postYear > endYear %}{% assign endYear = postYear %}{% endif %}
+  {% if postYear < startYear %}{% assign startYear = postYear %}{% endif %}
 {% endif %}
 {% endfor %}
 
-<!-- Pager -->
-{% if paginator.total_pages > 1 %}
+{% assign tableContent = "<tr><th></th><th>Jan</th><th>Feb</th><th>Mar</th><th>Apr</th><th>May</th><th>Jun</th><th>Jul</th><th>Aug</th><th>Sep</th><th>Oct</th><th>Nov</th><th>Dec</th></tr>" %}
 
-<div class="clearfix">
+{% assign currentPostIndex = 0 %}
 
-  {% if paginator.previous_page %}
-  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
-    Newer<span class="d-none d-md-inline"> Posts</span></a>
-  {% endif %}
+{% assign lastPostIndex = boasPraticas.size | minus: 1 %}
 
-  {% if paginator.next_page %}
-  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
-  {% endif %}
+{% for year in (startYear...endYear) reversed %}
 
-</div>
+  {% assign yearRow = "<tr><th>" | append: year | append: "</th>" %}
 
-{% endif %}
+  {% assign yearCellsArray = "" | split: "/" %}
+
+  {% for month in (1...12) reversed %}
+
+    {% assign postsThisYearMonth = 0 %}
+    {% assign monthCell = "<td>" %}
+
+    {% for postIndex in (currentPostIndex...lastPostIndex) %}
+
+      {% assign p      = boasPraticas[postIndex] %}
+      {% assign pYear  = p.date | date: "%Y" | plus: 0 %}
+      {% assign pMonth = p.date | date: "%m" | plus: 0 %}
+
+      {% if pYear == year and pMonth == month %}
+        {% assign postsThisYearMonth = postsThisYearMonth | plus: 1 %}
+      {% else %}
+        {% assign currentPostIndex = postIndex %}
+        {% break %}
+      {% endif %}
+
+    {% endfor %}
+
+    {% if postsThisYearMonth > 0 %}
+      {% assign linkTargetId = "#" | append: year | append: "-" | append: month %}
+      {% assign linkStart    = "<a href='" | append: linkTargetId | append: "'>" %}
+      {% assign linkEnd      = "</a>" %}
+      {% assign cellContent  = linkStart | append: postsThisYearMonth | append: linkEnd %}
+    {% else %}
+      {% assign cellContent  = "&nbsp" %}
+    {% endif %}
+
+    {% assign monthCell = monthCell | append: cellContent | append: "</td>" %}
+    {% assign yearCellsArray = yearCellsArray | unshift: monthCell %}
+
+  {% endfor %}
+
+  {% assign yearCells = yearCellsArray | join: "" %}
+  {% assign yearRow = yearRow | append: yearCells | append: "</tr>" %}
+  {% assign tableContent = tableContent | append: yearRow %}
+
+{% endfor %}
+
+<h2>Todos os posts por data</h2>
+<table class="table table-striped blogcalendar">
+  <tbody>
+    {{ tableContent }}
+  </tbody>
+</table>
+
+{% assign currentPostIndex = 0 %}
+{% assign lastPostIndex = boasPraticas.size | minus: 1 %}
+
+{% for year in (startYear...endYear) reversed %}
+  <h3>{{year}}</h3>
+  {% assign currentYear = year %}
+  {% for month in (1...12) reversed %}
+
+    {% assign postsArray = "" | split: "/" %}
+
+    {% for postIndex in (currentPostIndex...lastPostIndex) %}
+      {% assign p      = boasPraticas[postIndex] %}
+      {% assign pYear  = p.date | date: "%Y" | plus: 0 %}
+      {% assign pMonth = p.date | date: "%m" | plus: 0 %}
+
+      {% if pYear == year and pMonth == month %}
+        {% assign postsArray = postsArray | push: p %}
+      {% else %}
+        {% assign currentPostIndex = postIndex %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign postArraySize = postsArray | size %}
+
+    {% if postArraySize and postArraySize > 0 %}
+
+      {% assign post = postsArray | first %}
+      {% assign monthName = post.date | date: "%B" %}
+
+      {% assign monthId = year | append: "-" | append: month %}
+
+      <h4 id="{{ monthId }}">{{ monthName }} {{ year }}</h4>
+      <table class="table table-striped">
+      {% for p in postsArray %}
+        <tr>
+          <td>{{ p.date | date: "%Y-%m-%d" }}</td>
+          <td>
+              <a href="{{ site.baseurl }}{{ p.url }}">
+                  {{ p.title }}
+              </a>
+          </td>
+        </tr>
+      {% endfor %}
+      </table>
+    {% endif %}
+
+  {% endfor %}
+
+{% endfor %}`
