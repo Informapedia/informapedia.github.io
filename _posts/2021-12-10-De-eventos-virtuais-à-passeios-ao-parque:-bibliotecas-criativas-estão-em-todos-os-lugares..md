@@ -3,7 +3,7 @@ layout: post
 title: "De eventos virtuais à passeios ao parque: bibliotecas criativas estão em todos os lugares."
 date: 2021-12-10
 categories: ['Boas Práticas']
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---
