@@ -6,7 +6,11 @@ categories: ['Boas Práticas']
 permalink: /boasPraticas/:title:output_ext
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
----[Para mais informações clique aqui.](https://www.ntu.edu.sg/education/libraries/resources/freshmen)
+---
+
+{: style="text-align: justify" }
+
+[Para mais informações clique aqui.](https://www.ntu.edu.sg/education/libraries/resources/freshmen)
 
 {: style="text-align: justify" }
 A biblioteca da Universidade Tecnológica de Nanyang - Singapura (Nanyang Technological University - NTU Singapore) dispõe de recursos para calouros onde acolhe e orienta os alunos em cada etapa de sua jornada acadêmica. O programa “Experiência em Biblioteca para Calouros” oferta atualizações sobre as atividades divertidas e informações úteis reunidas especialmente para o primeiro ano como aluno. Equipando-se, igualmente, com os fundamentos da biblioteca por meio do guia interativo ou vídeo no site e links importantes de rápido acesso para os calouros.
