@@ -111,15 +111,14 @@ background: '/img/bg-post.jpg'
     {% if postArraySize and postArraySize > 0 %}
 
       {% assign post = postsArray | first %}
-      {% assign monthName = post.date | date: "%B" %}
 
       {% assign monthId = year | append: "-" | append: month %}
 
-      <h4 id="{{ monthId }}">{{ monthName }} {{ year }}</h4>
+      <h4 id="{{ monthId }}">{% include month.html date=post.date %} {{ year }}</h4>
       <table class="table table-striped">
       {% for p in postsArray %}
         <tr>
-          <td>{{ p.date | date: "%Y-%m-%d" }}</td>
+          <td>{{ p.date | date: "%d/%m/%Y" }}</td>
           <td>
               <a href="{{ site.baseurl }}{{ p.url }}">
                   {{ p.title }}
