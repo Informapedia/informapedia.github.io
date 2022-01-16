@@ -3,7 +3,7 @@ layout: post
 title: "Mais que livros, experiências! Confira essas Boas Práticas inspiradoras."
 date: 2022-01-10
 categories: ['Boas Práticas']
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Boas práticas à favor das minorias, leitura e recursos bibliotecários!
 date: 2022-01-05
 categories: ['Boas Práticas']
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---
