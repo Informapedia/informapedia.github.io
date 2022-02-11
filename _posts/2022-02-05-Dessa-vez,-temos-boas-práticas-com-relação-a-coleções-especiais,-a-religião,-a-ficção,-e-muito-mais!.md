@@ -3,7 +3,7 @@ layout: post
 title: "Dessa vez, temos boas práticas com relação a coleções especiais, a religião, a ficção, e muito mais!"
 date: 2022-02-05
 categories: ['Boas Práticas']
-permalink: /boasPraticas/:title:output_ext
+permalink: /boasPraticas/:year/:month/:day/:title
 author: Projeto Boas Práticas
 background: /img/bg-index.jpg
 ---
