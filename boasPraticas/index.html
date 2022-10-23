@@ -30,18 +30,18 @@ background: '/img/bg-post.jpg'
 
 {% assign lastPostIndex = boasPraticas.size | minus: 1 %}
 
-{% for year in (startYear...endYear) reversed %}
+{% for year in (startYear..endYear) reversed %}
 
   {% assign yearRow = "<tr><th>" | append: year | append: "</th>" %}
 
   {% assign yearCellsArray = "" | split: "/" %}
 
-  {% for month in (1...12) reversed %}
+  {% for month in (1..12) reversed %}
 
     {% assign postsThisYearMonth = 0 %}
     {% assign monthCell = "<td>" %}
 
-    {% for postIndex in (currentPostIndex...lastPostIndex) %}
+    {% for postIndex in (currentPostIndex..lastPostIndex) %}
 
       {% assign p      = boasPraticas[postIndex] %}
       {% assign pYear  = p.date | date: "%Y" | plus: 0 %}
@@ -86,14 +86,14 @@ background: '/img/bg-post.jpg'
 {% assign currentPostIndex = 0 %}
 {% assign lastPostIndex = boasPraticas.size | minus: 1 %}
 
-{% for year in (startYear...endYear) reversed %}
+{% for year in (startYear..endYear) reversed %}
   <h3>{{year}}</h3>
   {% assign currentYear = year %}
-  {% for month in (1...12) reversed %}
+  {% for month in (1..12) reversed %}
 
     {% assign postsArray = "" | split: "/" %}
 
-    {% for postIndex in (currentPostIndex...lastPostIndex) %}
+    {% for postIndex in (currentPostIndex..lastPostIndex) %}
       {% assign p      = boasPraticas[postIndex] %}
       {% assign pYear  = p.date | date: "%Y" | plus: 0 %}
       {% assign pMonth = p.date | date: "%m" | plus: 0 %}
