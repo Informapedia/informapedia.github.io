@@ -4,7 +4,7 @@ gem "activesupport", ">= 6.0.3.1"
 
 gem "jekyll", "~> 3.9.0"
 
-gem "github-pages", "~> 223"
+gem "github-pages", "~> 227"
 
 gem 'jekyll-seo-tag'
 
