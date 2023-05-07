@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "activesupport", ">= 6.0.3.1"
+gem "activesupport", ">= 6.0.6.1"
 
 gem "jekyll", "~> 3.9.0"
 
