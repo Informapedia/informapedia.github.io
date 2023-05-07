@@ -41,21 +41,35 @@ Emanuelle Geórgia Amaral Ferreira, Bibliotecária, Mestra e Doutoranda em Ciên
 <center><img src="/img/posts/Emanuelle.jpg" width="300"/></center>    
 
 {: style="text-align: justify" }
-Débora Crystina Reis, Bibliotecária, Mestranda em Ciência da Informação pela Universidade Federal de Minas Gerais (UFMG). Uma das idealizadores do Webconcib e do Informapédia. Acredita em uma Biblioteconomia plural, antirracista, equalitária, social e trabalha por isso. É apaixonada pela área e tem muito orgulho da Biblioteconomia. Para acessar o lattes, só clicar [aqui](http://lattes.cnpq.br/8991339927186146)
+Débora Crystina Reis, Bibliotecária, Mestre em Ciência da Informação pela Universidade Federal de Minas Gerais (UFMG). Uma das idealizadores do Webconcib e do Informapédia. Acredita em uma Biblioteconomia plural, antirracista, equalitária, social e trabalha por isso. É apaixonada pela área e tem muito orgulho da Biblioteconomia. Para acessar o lattes, só clicar [aqui](http://lattes.cnpq.br/8991339927186146)
 
 <center><img src="/img/posts/Débora.jpg" width="300"/></center>
 
-{: style="text-align: justify" }
-Mateus Eduardo Tavares da Silva, nascido e crescido em Natal-RN. Estudante do bacharelado em Biblioteconomia, UFRN. Apaixonado por animações, dramas e músicas asiáticas, livros e escrita. Tento ao máximo manter minha vida acadêmica em harmonia com a pessoal, sempre procurando sentir tudo que deve ser sentido plenamente. Link do lattes [http://lattes.cnpq.br/0962960570543349](http://lattes.cnpq.br/0962960570543349)  
-
-<center><img src="/img/posts/Matheus.jpg" width="300"/></center>
+<br>
 
 {: style="text-align: justify" }
-Amanda Vieira da Fonseca, nascida em São Paulo capital e morando a quase 7 anos no Rio Grande do Norte. Graduanda de Biblioteconomia na UFRN. Extrovertida, animada, e meio doidinha. Gosta MUITO de ler! Seus assuntos preferidos variam de romance (principalmente de época), drama, fantasia, aventura, mitologias... Entre suas outras paixões estão o cinema/teatro, viagens, séries e listas! Ama fazer listas! Ela também gosta de se discorrer em palavras, seus escritos podem ser encontrados no perfil @versiflorei do Instagram. Link do lattes [http://lattes.cnpq.br/2892649102932627](http://lattes.cnpq.br/2892649102932627)
-
-<center><img src="/img/posts/Amanda.jpg" width="300"/></center>
+### Estudantes / Bolsistas / Voluntários Atuais
 
 {: style="text-align: justify" }
-Miriam Martins de Paiva Vitor, nasci e cresci no município de Santana do Matos/RN. Gosto muito de ler livros e assistir filmes sobre romance e também me interesso por animes. Busco sempre fazer novas amizades e cuidar bem das que já possuo. Link do lattes [http://lattes.cnpq.br/7601601075454815](http://lattes.cnpq.br/7601601075454815)
+Mateus Eduardo Tavares da Silva. [Link do Lattes](http://lattes.cnpq.br/0962960570543349)  
 
-<center><img src="/img/posts/Miriam.jpg" width="450"/></center>
+Amanda Vieira da Fonseca. [Link do Lattes](http://lattes.cnpq.br/2892649102932627)
+
+Miriam Martins de Paiva Vitor. [Link do Lattes](http://lattes.cnpq.br/7601601075454815)
+
+Jadna Fernandes Forte.
+
+Franciele Carvalho de Araújo
+
+Laura Hevilly Guedes da Silva
+
+Jéssica Thalia Silva Pinto
+
+### Estudantes / Bolsistas / Voluntários que passaram pelo projeto
+
+Raquel Duarte da Silva
+
+Mayara Shelley Pascoal Vale
+
+Andréia Camila da Silva Seixas
+
