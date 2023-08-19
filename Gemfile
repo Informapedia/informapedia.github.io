@@ -2,9 +2,9 @@ source "https://rubygems.org"
 
 gem "activesupport", ">= 6.0.6.1"
 
-gem "jekyll", "~> 3.9.0"
+gem "jekyll", "~> 3.9.3"
 
-gem "github-pages", "~> 227"
+gem "github-pages", "~> 228"
 
 gem 'jekyll-seo-tag'
 
