@@ -21,8 +21,7 @@ instagram_username:  webconcib
 linkedin_username:
 youtube_username: UCCbMauCCNarGd8Wjkq5TMqg
 
-# Add your google-analytics ID here to activate google analytics
-google_analytics:   UA-168721960-1 # out your google-analytics code
+google_analytics: G-364829064
 
 # Build settings
 markdown:           kramdown

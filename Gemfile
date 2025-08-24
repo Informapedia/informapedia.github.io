@@ -1,10 +1,16 @@
 source "https://rubygems.org"
 
-gem "activesupport", ">= 6.0.6.1"
+# Use latest GitHub Pages gem (includes Jekyll 3.9.x)
+gem "github-pages", "~> 228", group: :jekyll_plugins
 
-gem "jekyll", "~> 3.9.0"
+# Security update
+gem "activesupport", ">= 6.1.7.6"
 
-gem "github-pages", "~> 227"
+# Ruby 3.4+ no longer ships csv gem by default, but Jekyll depends on it
+# Add explicit dependency so `jekyll serve` works
+gem "csv"
+
+gem "webrick", "~> 1.8"
 
 gem 'jekyll-seo-tag'
 
